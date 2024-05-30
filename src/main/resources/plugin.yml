@@ -1,0 +1,6 @@
+name: Komeiji
+version: '${project.version}'
+main: org.qo.komeiji.Komeiji
+api-version: '1.20'
+prefix: Komeiji
+load: STARTUP
